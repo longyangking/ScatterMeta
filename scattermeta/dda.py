@@ -14,7 +14,9 @@ class DDA:
     def mulitpole_expansion(self, freq, l, m, k, e):
 
     def cal_multipole(self, freq, k, e, order=3):
-
-
+        
     def __dipole_eqaution(self):
+
+    def __solve_dipole_equation(self):
+        
         

@@ -4,7 +4,7 @@
 ## Features
 1. Finite-difference frequency-domain method [1,2]
 2. Discrete Dipole Approximation (DDA) [3]
-3. Mie Scattering
+3. Mie Scattering for the particle with spherical symmetry
 
 ![](./examples/mie.png)
 
