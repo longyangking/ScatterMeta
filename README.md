@@ -8,6 +8,11 @@
 
 ![](./examples/mie.png)
 
+## Roadmap
+1. Particle made by isotropic media (developing now)
+2. Particle made by anisotropic media
+3. Particle made by metamaterials 
+
 ## References
 [1]Simple Implementation of Arbitrarily Shaped Total-Field/Scattered-Field Regions in Finite-Difference Frequency-Domain [link](http://www.jpier.org/PIERB/pierb36/11.11092006.pdf)
 

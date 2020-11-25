@@ -1,7 +1,7 @@
 import numpy as np
 import scipy.sparse as sparse
 
-class ScatterMeta:
+class FDFD:
     def __init__(self, structure, size_unit, bk_material=1.0, verbose=False):
         self.structure = np.array(structure)
         self.shape = self.structure.shape

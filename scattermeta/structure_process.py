@@ -1,21 +1,5 @@
 import numpy as np 
 
-class PointCloud:
-    def __init__(self, ds, Ns):
-        self.ds = ds
-        self.Ns = Ns  
-
-        self.cloud = np.zeros(Ns)
-
-    def get_cloud(self):
-        return self.mesh
-
-    def get_ds(self):
-        return self.ds
-
-    def reset(self, ds, Ns):
-        
-
 class Structure:
     def __init__(self, mesh, verbose=False):
         self.shape = shape
